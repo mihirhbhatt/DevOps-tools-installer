@@ -21,15 +21,15 @@ This repository provides scripts to install a wide range of DevOps tools on both
 
 ## Usage
 
-[](https://github.com/mihirhbhatt/DevOps-Tool-Installer/blob/master/README.md#usage)
+[](https://github.com/mihirhbhatt/DevOps-tools-installer/blob/master/README.md#usage)
 
 ### Linux
 
-[](https://github.com/mihirhbhatt/DevOps-Tool-Installer/blob/master/README.md#usage)
+[](https://github.com/mihirhbhatt/DevOps-tools-installer/blob/master/README.md#usage)
 
 1.  Clone the repository:
     
-    git clone https://github.com/mihirhbhatt/DevOps-Tool-Installer.git
+    git clone https://github.com/mihirhbhatt/DevOps-tools-installer.git
     cd DevOps-Tool-Installer
     
 2.  Make the script executable:
@@ -43,11 +43,11 @@ This repository provides scripts to install a wide range of DevOps tools on both
 
 ### Windows
 
-[](https://github.com/mihirhbhatt/DevOps-Tool-Installer/blob/master/README.md#usage)
+[](https://github.com/mihirhbhatt/DevOps-tools-installer/blob/master/README.md#usage)
 
 1.  Clone the repository:
     
-    git clone https://github.com/mihirhbhatt/DevOps-Tool-Installer.git
+    git clone https://github.com/mihirhbhatt/DevOps-tools-installer.git
     cd DevOps-Tool-Installer
     
 2.  Run the script:
